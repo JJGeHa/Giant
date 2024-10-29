@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mWbjCEylvap3Z7BfQ9Cs3FPaIK8I9Op9I2ZyaYfMCZkvxBdkQAagrkdDQ0h4PyRMeQlaWeZpniq01WwG/z9S/A==",
+  "dgSpecHash": "6BEVR8dd+x2wv11qJ3SveZ+flgO31FWiOSx5bQnZqGW0aOg2uF0nRD64+5xeoZWWhT42JSDbrHPNvcTpF2eftQ==",
   "success": true,
   "projectFilePath": "/Users/jjgeha/Documents/GitHub/Giant/Giant/Giant.csproj",
   "expectedPackageFiles": [
     "/Users/jjgeha/.nuget/packages/microsoft.entityframeworkcore/9.0.0-rc.2.24474.1/microsoft.entityframeworkcore.9.0.0-rc.2.24474.1.nupkg.sha512",
     "/Users/jjgeha/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-rc.2.24474.1/microsoft.entityframeworkcore.abstractions.9.0.0-rc.2.24474.1.nupkg.sha512",
     "/Users/jjgeha/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-rc.2.24474.1/microsoft.entityframeworkcore.analyzers.9.0.0-rc.2.24474.1.nupkg.sha512",
+    "/Users/jjgeha/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.10/microsoft.entityframeworkcore.inmemory.8.0.10.nupkg.sha512",
     "/Users/jjgeha/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-rc.2.24473.5/microsoft.extensions.caching.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
     "/Users/jjgeha/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-rc.2.24473.5/microsoft.extensions.caching.memory.9.0.0-rc.2.24473.5.nupkg.sha512",
     "/Users/jjgeha/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-rc.2.24473.5/microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5.nupkg.sha512",

@@ -24,3 +24,4 @@
 /Users/jjgeha/Documents/GitHub/Giant/Giant/obj/Debug/net8.0/Giant.pdb
 /Users/jjgeha/Documents/GitHub/Giant/Giant/obj/Debug/net8.0/Giant.genruntimeconfig.cache
 /Users/jjgeha/Documents/GitHub/Giant/Giant/obj/Debug/net8.0/ref/Giant.dll
+/Users/jjgeha/Documents/GitHub/Giant/Giant/obj/Debug/net8.0/Giant.csproj.AssemblyReference.cache
